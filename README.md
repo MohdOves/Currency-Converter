@@ -1,7 +1,12 @@
 Currency Converter
+
+
 This Currency Converter web application allows users to easily convert currencies between different countries using real-time exchange rates. The app features a simple and user-friendly design with country flags in the dropdown menus for easy recognition of different countries and their respective currencies.
 
+
 Key Features:
+
+
 Real-time Currency Conversion: The app fetches live exchange rates from the Exchange Rates API to ensure accurate and up-to-date conversions between selected currencies.
 
 Country Flags: Each currency selection dropdown is paired with a flag of the corresponding country, improving user experience and making it easy to identify countries at a glance.
@@ -16,6 +21,7 @@ Automatic Updates: The app automatically updates the exchange rates whenever nee
 
 
 Technologies Used:
+
 
 HTML: Used for creating the structure and layout of the app.
 
